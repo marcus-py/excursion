@@ -41,5 +41,7 @@ img {
 footer h4 {
     text-align: right;
     color: gray;
-    font: Verdana;
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 25px;
 }
